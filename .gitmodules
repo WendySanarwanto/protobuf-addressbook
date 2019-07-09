@@ -1,3 +1,6 @@
 [submodule "protobuf-addressbook-add"]
 	path = protobuf-addressbook-add
 	url = git@github.com:WendySanarwanto/protobuf-addressbook-add.git
+[submodule "protobuf-addressbook-viewer"]
+	path = protobuf-addressbook-viewer
+	url = https://github.com/WendySanarwanto/protobuf-addressbook-viewer
